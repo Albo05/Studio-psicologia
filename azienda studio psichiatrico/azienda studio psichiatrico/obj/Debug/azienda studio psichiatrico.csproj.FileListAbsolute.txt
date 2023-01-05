@@ -1,0 +1,11 @@
+C:\Users\alber\source\repos\azienda studio psichiatrico\azienda studio psichiatrico\bin\Debug\azienda studio psichiatrico.exe.config
+C:\Users\alber\source\repos\azienda studio psichiatrico\azienda studio psichiatrico\bin\Debug\azienda studio psichiatrico.exe
+C:\Users\alber\source\repos\azienda studio psichiatrico\azienda studio psichiatrico\bin\Debug\azienda studio psichiatrico.pdb
+C:\Users\alber\source\repos\azienda studio psichiatrico\azienda studio psichiatrico\obj\Debug\azienda studio psichiatrico.csproj.AssemblyReference.cache
+C:\Users\alber\source\repos\azienda studio psichiatrico\azienda studio psichiatrico\obj\Debug\azienda studio psichiatrico.csproj.SuggestedBindingRedirects.cache
+C:\Users\alber\source\repos\azienda studio psichiatrico\azienda studio psichiatrico\obj\Debug\azienda_studio_psichiatrico.Form1.resources
+C:\Users\alber\source\repos\azienda studio psichiatrico\azienda studio psichiatrico\obj\Debug\azienda_studio_psichiatrico.Properties.Resources.resources
+C:\Users\alber\source\repos\azienda studio psichiatrico\azienda studio psichiatrico\obj\Debug\azienda studio psichiatrico.csproj.GenerateResource.cache
+C:\Users\alber\source\repos\azienda studio psichiatrico\azienda studio psichiatrico\obj\Debug\azienda studio psichiatrico.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\azienda studio psichiatrico\azienda studio psichiatrico\obj\Debug\azienda studio psichiatrico.exe
+C:\Users\alber\source\repos\azienda studio psichiatrico\azienda studio psichiatrico\obj\Debug\azienda studio psichiatrico.pdb
